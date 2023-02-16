@@ -13,5 +13,5 @@
 ## Files Present
 
 | File Name                                 | Description                    |
-------------------------------------------------------------------------------
+| ----------------------------------------- | ------------------------------ |
 | Example_Data_gisaid_epiflu_isolates.xlsx  | Sample dataset from GISAID     |
