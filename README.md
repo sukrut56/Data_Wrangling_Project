@@ -15,3 +15,4 @@
 | File Name                                 | Description                    |
 | ----------------------------------------- | ------------------------------ |
 | Example_Data_gisaid_epiflu_isolates.xlsx  | Sample dataset from GISAID     |
+| 'Project Proposal.docx'                   | Project Proposal and Outline   |
