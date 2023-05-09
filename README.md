@@ -9,6 +9,13 @@
 - Nick Patterson
 - Vladimir Vinnik
 
+## Deliverables
+
+- Wrangled Data: 'cleaned_data_20230401.zip' file
+- Code in Git: https://github.com/sukrut56/Data_Wrangling_Project
+- Presentation: 'Final Presentation.pptx' file
+- Documentation: compiled, final notebook/report: 'BMI6016_Final_Report.ipynb' and individual notebooks
+
 
 ## Files Present
 
