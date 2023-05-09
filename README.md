@@ -24,3 +24,4 @@
 | data_cleaning_output_files.zip | preliminary cleaned data |
 | cleaned_data_20230401.zip | final cleaned dataset |
 | BMI6016_Final_Report.ipynb | final report/submission for project|
+| 'Final Presentation.pptx' | In-class presentation powerpoint |
