@@ -32,5 +32,6 @@
 | cleaned_data_20230401.zip | final cleaned dataset |
 | segment_ids.csv | csv output file for the segment IDs |
 | BMI6016_Final_Report.ipynb | final report/submission for project|
+| BMI6016_Final_Report.pdf | final report/submission in pdf format|
 | 'Final Presentation.pptx' | In-class presentation powerpoint |
 
